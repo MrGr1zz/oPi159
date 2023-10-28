@@ -10,12 +10,4 @@ int main()
         sum += log(k);}
     Y = sum + pow(x, 5);
     cout << "Y = " << Y;
-
-    cout << "\n\nInput y\ny = ";
-    cin >> y;
-    dob = 1;
-    for (int n = 1; n <= 10; n++) {
-        dob *= n;}
-    Z = (pow(y, 3) + dob + 2) / (pow(y, 2) + 5);
-    cout << "Z = " << Z;
 }
