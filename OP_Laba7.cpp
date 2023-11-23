@@ -10,4 +10,5 @@ int main()
         sum += log(k);}
     Y = sum + pow(x, 5);
     cout << "Y = " << Y;
+    int a = 4;
 }
