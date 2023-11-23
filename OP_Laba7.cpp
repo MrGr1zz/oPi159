@@ -11,4 +11,5 @@ int main()
     Y = sum + pow(x, 5);
     cout << "Y = " << Y;
     int a = 4;
+    int mas[a];
 }
